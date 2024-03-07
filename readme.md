@@ -11,18 +11,18 @@ This project cover topics such as MVP design pattern, threading and heap data st
 - Open the folder containing the selected file from the list.
 
 ## Getting Started
-## Prerequisites
+### Prerequisites
 - Python 3.6 or higher
 - Tkinter library (usually included with Python)
 
-## Installation
+### Installation
 Clone the repository or download the source code.
 ```bash
 git clone https://github.com/your-username/file-sorter.git
 ```
 
-## Usage
--Navigate to the project directory.
+### Usage
+- Navigate to the project directory.
 ```bash
 cd large-files-finder
 ```
