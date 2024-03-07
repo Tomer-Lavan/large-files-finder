@@ -1,7 +1,7 @@
 # Large Files Finder
 Large Files Finder is a simple desktop application that allows users to get there top n largest files in a specified folder by size. It provides a user-friendly interface to select a folder and view the sorted list of files, along with their sizes and last modified timestamps and directing to the file folder by clicking on it.
 I was running a little bit low on my memory so this project help me clear more than 40GB.
-This project cover topics such as MVP design pattern, threading and heap data structure that help us not to lose memory during run time.
+This project cover topics such as MVP design pattern, threading and heap data structure that help us not to run out of memory during run time.
 
 ## Features
 - Browse and select a folder to sort its files.
