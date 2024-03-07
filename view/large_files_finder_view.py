@@ -92,7 +92,7 @@ class LargeFilesFinderView(tk.Tk):
     def show_message(self, title: str, message: str):
         tk.messagebox.showinfo(title, message)
 
-    def open_file_folder(self):
+    def open_file_folder(self, event):
         selected_item = self.file_list.selection()[0]
         file_path = self.file_list.item(selected_item, 'values')[0]
         folder_path = os.path.dirname(file_path)
