@@ -20,12 +20,12 @@ Clone the repository or download the source code.
 ```bash
 git clone https://github.com/your-username/file-sorter.git
 ```
-Navigate to the project directory.
+
+## Usage
+-Navigate to the project directory.
 ```bash
 cd large-files-finder
 ```
-
-## Usage
 - Run the application.
 ```bash
 python app.py
